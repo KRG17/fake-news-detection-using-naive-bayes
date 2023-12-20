@@ -1,0 +1,3 @@
+## Fake news detection using Naïve Bayes
+
+The project addresses the challenges of fake news in the digital era, highlighting the influence of mass media and the potential manipulation of information. It introduces the Naive Bayes algorithm as a solution to detect fake news efficiently. The problem statement emphasizes the need for robust detection techniques to differentiate between credible and misleading news. The Naive Bayes classifier offers simplicity and effectiveness but faces challenges such as imbalanced data and linguistic nuances. The overall goal is to fortify against the spread of false narratives and promote responsible information consumption.
